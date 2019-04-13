@@ -54,7 +54,12 @@
 
 * 污水处理技术
 
-> RO(reverse osmosis) technology：反渗透技术，对污染物消除的贡献率最大。
+|screens（格栅）|grit removal（沉砂）|activated sludge process（活性污泥）|biological reactor（生物反应器）|clarifier（沉淀）|sand filtration（砂滤）|ozonation（臭氧化）|biological activated carbon（BAC，生物活性炭）|microfiltration（MF，微滤）|UV disinfection（UV消毒）|chlorination（氯化）|reverse osmosis（RO，反渗透）|additional chemical treatment for adjusting water pH and chlorination|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+
+> RO(reverse osmosis) technology：反渗透技术，对污染物消除的贡献率最大。在有些处理厂仅用来处理搜集的雨水。
+
+> MF（microfiltration）：微滤技术，去除低盐污水。
 
 > ozonation and biological activated carbon filtration：氧化与生物活性炭过滤技术。
 
@@ -65,6 +70,14 @@
 > ethers of polyethylene glycol and polypropylene glycol，alkylphenols and alkylphenol ethoxylates（聚乙二醇和聚丙二醇的醚类化合物，烷基酚和烷基酚聚氧乙烯醚）：第二大类的污染物是来自洗涤用品中的聚乙二醇和聚丙二醇的醚类化合物，烷基酚类和烷基砜类聚氧乙烯醚。
 
 > *To place abundance of those compounds into perspective, [Paxe´us (1996)](https://www.sciencedirect.com/science/article/pii/0043135495002782) found that the major organic components in the influent to wastewater treatment plants were long chain fatty acids and their esters mainly from soap, edible oils and fat. The second largest group were the washing and cleaning related products consisting of ethers of polyethylene glycol and polypropylene glycol, alkylphenols and alkylphenol ethoxylates which originated from detergents (Paxe´us, 1996).*
+
+* 再生利用途径（再生水库含义较广，根据不同利用途径可能存在水质差异。污水处理厂出水再利用，污水处理厂出水送至再生水厂进一步处理出水再利用）
+
+> irrigate（灌溉）
+
+> 市政杂用：*It serves the Olympic Park as well as the adjacent suburb through a dual reticulation system in which households are connected to a potable tap water as well as a recycled water supply.The treated wastewater is used for all non-drinking purposes by residents, commercial premises, sport venues, parklands and playing fields.*
+
+> 工业利用：cooling tower make up（冷取水），boiler feed water（锅炉用水）
 
 * 分析技术
 
