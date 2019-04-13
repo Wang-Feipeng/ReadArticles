@@ -79,11 +79,62 @@
 
 > 工业利用：cooling tower make up（冷取水），boiler feed water（锅炉用水）
 
-* 分析技术
+* 分析方法与技术
 
-> SPE(solid phase extraction)：固相萃取技术
+> sampling（采样方法）
 
-> derivatization：衍生化。
+采集原水混合样品，及各个处理单元进出水样品。选用2.5L褐色玻璃瓶采样，连夜转移并立刻处理。*Composite raw wastewater samples and grab samples from the feed and effluent of the various unit operations were taken at each scheme. All samples were collected in 2.5L amber glass bottles, transferred overnight and processed immediately.*
+
+> sample preparation（样品预处理）
+
+>> 1. filtration（过滤），采集到的样品首先进行过滤。*Upon receipt in the laboratory each sample was filtered using three different filters, GF/D (2.7μm) and GF/F (0.7μm) Whatman filters and 0.48μm Nylon filter membrane*
+
+**不同孔径d大小的滤膜**
+
+|membrane|GF/D Whatman filters|GF/F Whatman filters|Nylon filter|
+|-|-|-|-|
+|d/μm|2.7|0.7|0.48|
+|-|-|-|-|
+
+>> 2. save/keep（保存）:过滤后的样品4℃保存于棕色瓶中。
+
+>> 3. sample enrichment（富集）。
+
+>>> * 样品富集前，取出1L样品升至室温，并调节pH至2-3（**提高固相萃取吸附剂对酸性化合物的俘获**）。
+
+>>> * 样品富集前，用氘代物作为内标加入到纯水中，用以测定**回收率**。
+
+>>> * 样品富集前，用氘代物作为内标加入到样品中，用以定量。
+
+>>> *The wasterwater samples were spiked with a mixture of the deuterated internal standards for analyte quantitation. MilliQ water of 1L was also spiked with a standard with a standard mixture of the investigated compounds to confirm recovery of analytes.*
+
+*氘代内标物：*
+
+|carbamazepine-d10|2-hydroxybenzoic acid-d6|gemfibrozil-d6|(+、-)-ibuprofen-d3|5,5'-phenytoin-d10|4-n-nonylphenol-2,3,5,6-d6,O,D|
+|-|-|-|-|-|-|
+
+>>> **solid phase extraction（SPE，固相萃取技术）**，包括活化、上样、淋洗、洗脱四个过程。
+
+***sorbent cartridges（萃取小柱）：***
+
+|HLB|
+|-|
+
+* 活化。依次用5mL的MTBE、甲醇和水清洗。*“The HLB were conditioned sequentially with 5 mL methyl terea butyl ether, 5 mL methanol and 5 mL MilliQ water.”*
+
+* sample loading（上样）。以15ml/min的速度上样：*Extraction of the 1L sample was carried out under vacuum at a flow rate of approximately 15 mL/min.*
+
+* washing（淋洗）。用3mL 5%的甲醇水淋洗。
+
+* elution（洗脱），用5mL 10%的甲醇MTBE洗脱。为了去除水分，可增加脱水环节（HLB柱后接无水硫酸钠柱）。*In order to eliminate the presence of water from the eluate, a column of anhydrous sodium sulphate was prepared and fitted under the SPE column before the elution procedure started.*
+
+>> 4. 浓缩。
+
+>>> * 氮吹。 *The elution volume was then evaporated to dryness at 39℃ under a stream of nitrogen.*
+
+
+> determination（测定方法）
+>> derivatization：衍生化。
 
 > SIM(selected ion monitoring)：选择离子模式。
 
