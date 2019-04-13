@@ -13,6 +13,9 @@
 
 >>    **人类或动物用药，基于不同理化特性经生物代谢生成代谢产物（metabolites）或不完全代谢，经排放入污水处理系统。其含量通常在μg/L或更低**
 
+|Acetaminophen|carbamazepine|clofibric acid|diclofenac sodium|gemfibrozil|ibuprofen|ketoprofen|naproxen|primidone|phenytoin|salicylic acid|
+|-|-|-|-|-|-|-|-|-|-|-|
+
 >>> analgesics（镇痛药）
 
 >>> anti-inflammation compounds（抗炎药）, non-steroidal anti-inflammation medications（非甾体消炎药）
@@ -38,6 +41,9 @@
 
 >> 5. non-steroidal estrogenic compounds（nSECs，非甾体雌激素化合物）
 
+|BPA|NP|
+|-|-|
+
 >>> bisphenol A（BPA，双酚A），BPA被广泛应用于塑料生产中。
 
 >>> Non-steroidal estrogenic compounds (nSECs), of which bisphenol A (BPA) is one of the most predominant examples, are manufactured in large quantities with over 90% being used in the plastic industry for the production of polycarbonate and epoxy resins, unsaturated polyester-styrene resin and flame retardants.
@@ -52,13 +58,13 @@
 
 > ozonation and biological activated carbon filtration：氧化与生物活性炭过滤技术。
 
-* To place abundance of those compounds into perspective（污染物解析）
+* To place abundance of those compounds into perspective（**污染物解析**）
 
-> long  chain fatty acids and their esters （长链脂肪酸及长链脂肪酸酯类化合物）
+> long  chain fatty acids and their esters （长链脂肪酸及长链脂肪酸酯类化合物）：污水处理厂进水中的主要有机污染物是长链脂肪酸及长链脂肪酸酯，主要来自肥皂、食用油和脂肪。
 
-> ethers of polyethylene glycol and polypropylene glycol，alkylphenols and alkylphenol ethoxylates（聚乙二醇和聚丙二醇的醚类化合物，烷基酚和烷基酚聚氧乙烯醚）
+> ethers of polyethylene glycol and polypropylene glycol，alkylphenols and alkylphenol ethoxylates（聚乙二醇和聚丙二醇的醚类化合物，烷基酚和烷基酚聚氧乙烯醚）：第二大类的污染物是来自洗涤用品中的聚乙二醇和聚丙二醇的醚类化合物，烷基酚类和烷基砜类聚氧乙烯醚。
 
-> *To place abundance of those compounds into perspective, Paxe´us (1996) found that the major organic components in the influent to wastewater treatment plants were long chain fatty acids and their esters mainly from soap, edible oils and fat. The second largest group were the washing and cleaning related products consisting of ethers of polyethylene glycol and polypropylene glycol, alkylphenols and alkylphenol ethoxylates which originated from detergents (Paxe´us, 1996).*
+> *To place abundance of those compounds into perspective, [Paxe´us (1996)](https://www.sciencedirect.com/science/article/pii/0043135495002782) found that the major organic components in the influent to wastewater treatment plants were long chain fatty acids and their esters mainly from soap, edible oils and fat. The second largest group were the washing and cleaning related products consisting of ethers of polyethylene glycol and polypropylene glycol, alkylphenols and alkylphenol ethoxylates which originated from detergents (Paxe´us, 1996).*
 
 * 分析技术
 
