@@ -59,6 +59,12 @@
 
 > RO(reverse osmosis) technology：反渗透技术，对污染物消除的贡献率最大。在有些处理厂仅用来处理搜集的雨水。
 
+>> concentration factor in reverse osmosis（浓缩系数），反渗透废液中污染物浓度与原水中污染物浓度的比值。
+
+>> *“The concentration factor is a ratio of the concnetration of a component in the brine compared to the influent (feed), which depends on the rescovery of water and retention of individual compounds. Retention is dependent on many factors such as the chemical characteristics of compiunds, membrane characteristics, water matrix and adsorption interactions between compounds and membrane.”*
+
+>> membrane recovery（r，膜回收率）等于反渗透透过物质总量Qp与进水总量Qf的比值；retention （or rejection，保留率）等于1-（反渗透透过物质浓度Cp与进水总物质浓度Cf的比值）；
+
 > MF（microfiltration）：微滤技术，去除低盐污水。
 
 > ozonation and biological activated carbon filtration：氧化与生物活性炭过滤技术。
@@ -94,7 +100,6 @@
 |membrane|GF/D Whatman filters|GF/F Whatman filters|Nylon filter|
 |-|-|-|-|
 |d/μm|2.7|0.7|0.48|
-|-|-|-|-|
 
 >> 2. save/keep（保存）:过滤后的样品4℃保存于棕色瓶中。
 
@@ -132,17 +137,43 @@
 
 >>> * 氮吹。 *The elution volume was then evaporated to dryness at 39℃ under a stream of nitrogen.*
 
+>> 5. derivatization：衍生化。*The extract residues were dissolved in 300 μL of acetonitrile and then derivatized by adding 100 μL N,O-bis(trimethylsilyl)trifluoroacetamide with trimethylchlorosilane (99:1).* The analytes were allowed to react for 1h at 70℃.
+
+>> 6. instrument internal standard（仪器内标），确证样品被分析。*Finally, 100μL of fluazifop standards were added to each vial before injection as an instrument internal standard to confirm injection of each sample onto the GC colume.*
 
 > determination（测定方法）
->> derivatization：衍生化。
 
-> SIM(selected ion monitoring)：选择离子模式。
+>> 1. instrument information（仪器信息），包括仪器型号、自动进样器、质量检测器、色谱柱型号及分析针头。*“A Shimadzu-GC 17A GC was used, equipped with an auto-injector model AOC-20i, mass detector model QP5000, Phenomenex Zebron ZB-5 column and Split/Spilitless injector.”*
 
+>> 2. Program（色谱程序）。
+
+>>> The oven temperature program（程序升温）：
+
+|持续时间/min|0|4|0|5|3|
+|-|-|-|-|-|-|
+|温度/℃|100|150|195|205|250|
+|升温速度℃/min|30|3|1|30|-|
+
+>> 3. condition（仪器分析条件）
+
+|injection temperature（进样温度，℃）|carrier gas（载气）|flow rate（载气流速）ml/min|interface temperature（表面温度，℃）|
+|-|-|-|-|
+|270|Helium|1|270|
+
+>> 4.selected ion monitoring（SIM，选择离子监测模式）。
+
+>>> *For identification of each analyte, three compound specific ions were recorded in the selected ion monitoring mode.*
+
+>> 5. comfirmation（结果的确证）
+
+>>> *Analytes were identified positively in case identical retention time and mass ratios similar to the mass ratio retrieved through calibration were obtained.*
+
+>>> quantification of compoundes（定量依据），包括内标、校正曲线线性范围和检出限。*“Deuterated standards were used as internal standard for quantification of PhACs and nSECs (1ng/L). Calibration curves for PhACs and nSECs were found to be linear within the 5.0-0.01μg/L range. Minimum detection limits were 0.01μg/L for all analytes.”*
 
 
 * Targeted parameters：目标参数/常规参数，包括grit（砂砾）、suspended solids（悬浮固体）、COD、BOD、pH、total suspended solids（TSS，总悬浮物）、营养盐（N/P）、cations（阳离子）、anions（阴离子）、heavy metals（重金属）和priority pollutants（优先污染物）。
 
-|grit|suspended solids|COD|BOD|pH|TSS|*Nutrients*|*cations*|*anions*|*heavy metals*|*priority pollutants*|
-|-|-|-|-|-|-|-|-|-|-|-|
+|grit|suspended solids|COD|BOD|pH|conductivity|adsorbance at UV 254nm（UV 254）|turbidity|total organic carbon（TOC）|total nitrogen（TN）|TSS|*Nutrients*|*cations*|*anions*|*heavy metals*|*priority pollutants*|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
 
