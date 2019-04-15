@@ -14,7 +14,7 @@
 >>    **人类或动物用药，基于不同理化特性经生物代谢生成代谢产物（metabolites）或不完全代谢，经排放入污水处理系统。其含量通常在μg/L或更低**
 
 |Acetaminophen|carbamazepine|clofibric acid|diclofenac sodium|gemfibrozil|ibuprofen|ketoprofen|naproxen|primidone|phenytoin|salicylic acid|
-|-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|-|-|-|
 
 >>> analgesics（镇痛药）
 
@@ -65,9 +65,15 @@
 
 >> membrane recovery（r，膜回收率）等于反渗透透过物质总量Qp与进水总量Qf的比值；retention （or rejection，保留率）等于1-（反渗透透过物质浓度Cp与进水总物质浓度Cf的比值）；
 
-> MF（microfiltration）：微滤技术，去除低盐污水。
+> MF（microfiltration）：微滤技术，去除低盐污水。MF对痕量污染物的去除贡献较小。
 
 > ozonation and biological activated carbon filtration：氧化与生物活性炭过滤技术。
+
+> 经处理过后，水质明显提高。“In GGSS and LPWRP, the trend of water quality is generally increasing during treatment.”GGSS中clarification初沉处理后，浊度、电导率、UV254、TN和TOC都显著降低，其中浊度在生物活性炭BAC处理后进一步降低。LPWRP中所有指标在生物污泥处理后都降低，且随着进一步处理，除了UV254之外其他指标进一步降低。最终出水主要含有有机碳和电导率。（**生物污泥处理后会产生SMP**）
+
+> 处理过程对有机污染物的去除率变化范围由于不同处理工艺变化较大，0-100%。有机污染物主要在二级处理工艺中被去除。
+
+> 处理原理。*“The specific mechanisms responsible for this elimination of these compounds, which could be abiotic degradation induced by solar irradiation, biotransformation, physical sequestration or a combination of these, remains to be elucidated.”*
 
 * To place abundance of those compounds into perspective（**污染物解析**）
 
@@ -171,9 +177,10 @@
 >>> quantification of compoundes（定量依据），包括内标、校正曲线线性范围和检出限。*“Deuterated standards were used as internal standard for quantification of PhACs and nSECs (1ng/L). Calibration curves for PhACs and nSECs were found to be linear within the 5.0-0.01μg/L range. Minimum detection limits were 0.01μg/L for all analytes.”*
 
 
-* Targeted parameters：目标参数/常规参数，包括grit（砂砾）、suspended solids（悬浮固体）、COD、BOD、pH、total suspended solids（TSS，总悬浮物）、营养盐（N/P）、cations（阳离子）、anions（阴离子）、heavy metals（重金属）和priority pollutants（优先污染物）。
+* Targeted parameters, bulk parameters：目标参数/常规参数，包括grit（砂砾）、suspended solids（悬浮固体）、COD、BOD、pH、total suspended solids（TSS，总悬浮物）、营养盐（N/P）、cations（阳离子）、anions（阴离子）、heavy metals（重金属）和priority pollutants（优先污染物）。
 
 |grit|suspended solids|COD|BOD|pH|conductivity|adsorbance at UV 254nm（UV 254）|turbidity|total organic carbon（TOC）|total nitrogen（TN）|TSS|*Nutrients*|*cations*|*anions*|*heavy metals*|*priority pollutants*|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 
+“Till 2007 monitoring of recycling schemes is minimal. The majority of providers of recycled water monitor the quality parameters specified by EPA licenses.”
 
