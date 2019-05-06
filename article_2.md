@@ -116,3 +116,11 @@ Science of the total environment 2019
 * The adsorption of the EfOM, which is generally negatively charged in wastewater, alters the initial AC surface (neutral or positive charged) or increase (in case of initially negative surface sites) the total charge of the AC surface.EfOM通常是负电荷，可改变正电荷或中性AC表面，或增加负电荷总量。The physico-chemical characteristics of the CECs such as polarity, molecular weight and the presence of different functional groups and charges (and their interaction with the AC surface sites altered by EfOM) are crucial parameters that determine their removal.
 
 * Membrane filtration processes（膜滤）
+
+> 低压膜，微滤、超滤：low pressure membranes (microfiltration (MF) and ultrafiltration (UF)).  Common nominal pore sizes vary from 0.1–1 μm for MF to 0.01–0.04 μm in UF.
+
+> 高压膜，纳滤和反渗透需预先脱盐。NF and RO membranes on the contrary usually operate on already pre-filtered water with a very low TSS concentration.
+
+> The molecular weight of CECs lies typically in the range of 100–400 Da with some exceptions such as macrolidic antibiotics that can be substantially larger.These values translate to molecular radii that are typically <1 nm, i.e. 
+
+> 三种过滤机制：For the rejection of organic compounds by NF and RO membranes three rejection mechanisms have been identified in literature: size exclusion, Donnan exclusion and adsorption
